@@ -27,5 +27,5 @@ saved alongside this document.
 
 ## Notes
 - Screenshots are stored in `outputs/reports/test_screenshots/`
-- All tests were run on [Your OS] with Python [version]
+- All tests were run on mac os with Python 3.13
 - Dataset used: Kaggle Stream Macroinvertebrates dataset
