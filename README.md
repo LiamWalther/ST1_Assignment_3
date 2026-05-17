@@ -95,9 +95,9 @@ macro_project/
 ## Work Division
 | Member               | Responsibility |
 |----------------------|---------------|
-| [liam Walther]       | Dataset indexing, EDA service, Stage 1 outputs |
-| [Tom]                | Image preprocessing, classifier service, evaluation outputs |
-| [Liam Walther & Tom] | Console app, testing, README, integration |
+| u3280553             | Dataset indexing, EDA service, Stage 1 outputs |
+| u3243132             | Image preprocessing, classifier service, evaluation outputs |
+| u3280553 & u3243132  | Console app, testing, README, integration |
 
 ## Reused / Adapted Code
 Code in this project is adapted from course-provided guidance materials
