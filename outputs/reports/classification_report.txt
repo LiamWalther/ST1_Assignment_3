@@ -1,0 +1,25 @@
+Test Accuracy: 0.7036 (70.4%)
+
+                     precision    recall  f1-score   support
+
+         Asellus sp       0.68      0.73      0.70        59
+        Baetidae sp       1.00      0.14      0.24        22
+           Elmis sp       1.00      0.33      0.50         9
+     Ephemerellidae       0.33      0.07      0.12        14
+      Erpobdella sp       0.36      0.19      0.25        21
+        Gammarus sp       0.68      0.96      0.80       197
+  Hydropsychidae sp       0.80      0.29      0.42        14
+ Leptophlebiidae sp       0.00      0.00      0.00         2
+         Leuctra sp       0.00      0.00      0.00         4
+         Limnius sp       0.00      0.00      0.00         3
+          Lymnea sp       0.60      0.50      0.55         6
+         Nemoura sp       0.50      0.38      0.43        21
+     Oligochaeta sp       0.84      0.59      0.70        27
+Sericostomatidae sp       0.88      0.77      0.82        30
+          Sialis sp       0.00      0.00      0.00         4
+      Simuliidae sp       0.72      0.80      0.76        75
+       Sphaerium sp       0.95      0.72      0.82        25
+
+           accuracy                           0.70       533
+          macro avg       0.55      0.38      0.42       533
+       weighted avg       0.70      0.70      0.67       533
